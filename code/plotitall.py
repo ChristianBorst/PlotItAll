@@ -11,5 +11,6 @@ data with colors and symbols."""
 
 #Use the format specifier to decipher the file contents and split into columns
 
-#Have matplotlib plot the data, with the x and y functions given in the format specifier
+#Have matplotlib plot the data, with the x and y functions given 
+#in the format specifier
 #Write the plot to the output file specified
